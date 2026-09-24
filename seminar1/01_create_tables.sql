@@ -18,7 +18,7 @@ CREATE TABLE orders (
     order_id VARCHAR(20) PRIMARY KEY,
     customer_id VARCHAR(20),
     product_id VARCHAR(20),
-    order_date ,
+    order_date DATE,
     ship_date DATE,
     sales NUMERIC(100,2),
     quantity INTEGER,
