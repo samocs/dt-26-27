@@ -1,0 +1,10 @@
+Rule,ErrorCount
+invalid_orderid_format,0
+duplicate_orderid,22
+invalid_quantity,24
+invalid_salesamount,38
+invalid_discount,29
+invalid_orderdate,17
+invalid_deliverydate,9
+delivery_before_order,15
+invalid_phone,34
