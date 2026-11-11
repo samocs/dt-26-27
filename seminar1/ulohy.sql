@@ -1,3 +1,4 @@
+-- Active: 1790192869910@@127.0.0.1@5432@datacraftinglab_db
 --2
 SELECT 
 o.order_id, o.sales, c.customer_name
